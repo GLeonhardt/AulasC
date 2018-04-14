@@ -13,7 +13,7 @@ Para utilizar no Windows baixe e instale uma das opções
 
 - Baixe e instale um editor de texto 
 - Sugestão [Visual Studio Code](https://code.visualstudio.com/Download)
- - Após a instalação abra o menu de extensões e busque e instale a extensão "C/C++"
+  - Após a instalação abra o menu de extensões e busque e instale a extensão "C/C++"
 
 
 

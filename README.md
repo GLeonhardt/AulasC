@@ -12,7 +12,7 @@ Para utilizar no Windows baixe e instale uma das opções
 - Instale e configure o compilador seguindo o [link](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/)
 
 - Baixe e instale um editor de texto 
-- Sugestão [Visual Studio Code](https://code.visualstudio.com/Download)
+- Sugestão: [Visual Studio Code](https://code.visualstudio.com/Download)
   - Após a instalação abra o menu de extensões e busque e instale a extensão "C/C++"
 
 

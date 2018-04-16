@@ -38,3 +38,7 @@ Para utilizar no Windows baixe e instale uma das opções
 
 - Insira o nome do projeto
 ![Alt text](http://2.bp.blogspot.com/-YWbiRLuPDRo/Vi3d0qU_OPI/AAAAAAAAACg/9s4jw2Wthlg/s1600/project%2Bname.jpg)
+
+**Dúvidas**
+- E-mail:guileonhardt2@gmail.com
+

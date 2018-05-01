@@ -2,7 +2,7 @@
 
 **[Exercícios](https://docs.google.com/document/d/1GUZSdL9nnbC39VsJQI8NB7vPzhDSI_q9JQOpd853g_c/edit?usp=sharing)**
 
-Para utilizar no Windows baixe e instale uma das opções
+**Para utilizar no Windows baixe e instale uma das opções**
 
 **[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)**
 

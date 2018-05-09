@@ -1,3 +1,4 @@
+// E O ERRADO ACHE O CERTO SEU BURRO
 #include <stdlib.h>
 #include <stdio.h>
 

@@ -1,5 +1,7 @@
 # AulasC
 
+**[Slides](https://goo.gl/JxwWDk)**
+
 **[Exercícios](https://docs.google.com/document/d/1GUZSdL9nnbC39VsJQI8NB7vPzhDSI_q9JQOpd853g_c/edit?usp=sharing)**
 
 **Para utilizar no Windows baixe e instale uma das opções**

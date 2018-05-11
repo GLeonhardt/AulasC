@@ -4,6 +4,9 @@
 
 **[Exercícios](https://docs.google.com/document/d/1GUZSdL9nnbC39VsJQI8NB7vPzhDSI_q9JQOpd853g_c/edit?usp=sharing)**
 
+**Dúvidas**
+- E-mail:guileonhardt2@gmail.com
+
 **Para utilizar no Windows baixe e instale uma das opções**
 
 **[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)**
@@ -44,6 +47,5 @@
 - Insira o nome do projeto
 ![Alt text](http://2.bp.blogspot.com/-YWbiRLuPDRo/Vi3d0qU_OPI/AAAAAAAAACg/9s4jw2Wthlg/s1600/project%2Bname.jpg)
 
-**Dúvidas**
-- E-mail:guileonhardt2@gmail.com
+
 
